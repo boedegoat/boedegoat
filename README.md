@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhremada Fevreano</h1>
 <h3 align="center">Just an ordinary people from Indonesia who loves to code</h3>
 
-- 🧑 I’m currently a student at **Pembangunan Jaya Senior High School**
+- 🧑 I’m currently learning at **Binus University Cyber Security**
 
 - 🌱 I’m currently learning **everything to improve myself**
 
