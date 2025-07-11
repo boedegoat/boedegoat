@@ -5,7 +5,7 @@
 
 - 👨‍💻 I'm also freelancing at [Fastwork](https://fastwork.id/user/bhremada)
 
-- 👨‍💻 All of my projects are available at [https://bhremada.super.site/](https://bhremada.super.site/)
+- 👨‍💻 All of my projects are available at [https://bhremada.com](https://bhremada.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
