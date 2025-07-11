@@ -6,7 +6,7 @@
 
 -   👨‍💻 I also freelance on [Fastwork](https://fastwork.id/user/bhremada)
 
--   🚀 You can check out my portfolio at [https://bhremada.com](https://bhremada.com)
+-   🚀 You can check out my web at [https://bhremada.com](https://bhremada.com)
 
 ###
 
