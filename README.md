@@ -2,16 +2,18 @@
 
 ###
 
--   🏫 I’m currently learning at **BINUS University Cyber Security**
+-   🏫 I'm currently studying Cyber Security at BINUS University
 
--   👨‍💻 I'm also freelancing at [Fastwork](https://fastwork.id/user/bhremada)
+-   👨‍💻 I also freelance on [Fastwork](https://fastwork.id/user/bhremada)
 
--   👨‍💻 All of my projects are available at [https://bhremada.com](https://bhremada.com)
+-   🚀 You can check out my portfolio at [https://bhremada.com](https://bhremada.com)
 
 ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
@@ -21,9 +23,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="60" alt="solidity logo"  />
 </div>
 
 ###
