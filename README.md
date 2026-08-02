@@ -2,11 +2,8 @@
 
 ###
 
--   🏫 I'm currently studying Cyber Security at BINUS University
-
--   👨‍💻 I also freelance on [Fastwork](https://fastwork.id/user/bhremada)
-
--   🚀 You can check out my web at [https://bhremada.com](https://bhremada.com)
+<h3 align="center">webdev turned cybersec</h3>
+<h4 align="center"><a href="https://bhremada.com">know me more</a></h4>
 
 ###
 
@@ -33,7 +30,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bhremada-fevreano/" target="_blank">
+  <a href="https://www.linkedin.com/in/bhremada/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/boedegoat" target="_blank">
@@ -44,5 +41,11 @@
 ###
 
 <img src="https://raw.githubusercontent.com/boedegoat/boedegoat/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@boedegoat?name=boedegoat&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" alt=":boedegoat" />
+</div>
 
 ###
